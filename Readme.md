@@ -2,7 +2,7 @@
 Projeto desenvolvido durante o bootcamp GFT start.
 Nesse projeto utilizou-se a liguagem C# para desenvolver as funções básicas de CRUD (create, read, update e delete) de duas entidades: Série e Filme e algumas outras funcionalidades.
  
-# Funções disponíveis
+# Funções disponíveis 📖
 - Listar séries e filmes cadastrados
 - Inserir nova série
 - Inserir novo filme
