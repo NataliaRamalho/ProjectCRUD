@@ -29,4 +29,6 @@ Nesse projeto utilizou-se a liguagem C# para desenvolver as funções básicas d
  dotnet run
 ```
 
-Parabéns o código está executando 😃
+Parabéns o código está executando 😃  
+
+⏰ Projeto desenvolvido em maio/2022
